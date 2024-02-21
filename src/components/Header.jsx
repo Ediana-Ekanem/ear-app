@@ -41,7 +41,10 @@ const Header = () => {
           </div>
         </div>
 
-        <div className="mx-auto" style={{ zIndex: "1", position: "relative" }}>
+        <div
+          className="mx-auto me-20"
+          style={{ zIndex: "1", position: "relative" }}
+        >
           <div className=" flex ">
             <div className="relative top-[51px] left-[400px]">
               <img src="/src/assets/headerAssest/phone-lfet.png" alt="" />
