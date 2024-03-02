@@ -95,7 +95,7 @@ const Faqs = () => {
       <section>
         <div className="px-10 py-10 ">
           <div className="flex  justify-center md:justify-end mb-5">
-            <div className=" w-full max-w-[440px]">
+            <div className=" w-full max-w-[1020px]">
               <div className=" w-full">
                 <h3 className="mb-5">
                   <span className="font-bold">Be in the know.</span> Get access
@@ -136,6 +136,7 @@ const Faqs = () => {
                 </div>
               </div>
             </div>
+
             <div className="mb-5">
               <h2 className="mb-2 font-semibold">Link</h2>
               <ul className=" text-[15px] space-y-2  ">
