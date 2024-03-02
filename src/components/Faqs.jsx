@@ -93,7 +93,7 @@ const Faqs = () => {
       </div>
 
       <section>
-        <div className="px-20 py-10 ">
+        <div className="px-10 py-10 ">
           <div className="flex  justify-center md:justify-end mb-5">
             <div className=" w-full max-w-[440px]">
               <div className=" w-full">
