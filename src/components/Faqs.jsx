@@ -20,13 +20,13 @@ const Faqs = () => {
           <div className="hidden md:flex justify-end">
             <img src={lightIcon} alt="" className="w-14  me-12" />
           </div>
-          <div className="w-[400px] mb-20  px-7 md:px-0 md:ms-48">
+          <div className=" w-full max-w-[400px] mb-20  px-7 md:px-0 md:ms-48">
             <h1 className=" text-[32px] md:text-[62px] font-[500] leading-[1]  text-[#007640]">
               The ear1 assurance
             </h1>
           </div>
-          <div className="md:flex justify-center space-x-5">
-            <div className=" w-full max-w-[400px] h-[400px] mx-5 ">
+          <div className="md:flex justify-center md:space-x-5">
+            <div className=" w-full max-w-[400px] h-[400px]  ">
               <img
                 src={feature}
                 alt=""
