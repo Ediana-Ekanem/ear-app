@@ -26,7 +26,7 @@ const Faqs = () => {
             </h1>
           </div>
           <div className="md:flex justify-center md:space-x-5">
-            <div className=" w-full max-w-[400px] h-[400px]  ">
+            <div className=" w-full max-w-[400px] h-[400px] mx-  ">
               <img
                 src={feature}
                 alt=""

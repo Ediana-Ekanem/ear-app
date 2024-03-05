@@ -16,7 +16,7 @@ const Header = () => {
             style={{ fontFamily: "DM Sans", zIndex: "0" }}
           >
             <div className="mx-auto max-w-[700px] w-full py-10 ">
-              <h1 className=" text-[32px] md:text-[100px] font-[500] md:font-[700] leading-[1] md:leading-[1] text-center ">
+              <h1 className=" text-[32px] md:text-[100px] font-[500] md:font-[700] leading-[1] md:leading-[1] text-center px-1">
                 Build direct, meaningful connections.
               </h1>
               <div className=" mt-5 max-w-[400px]  md:max-w-[520px] w-full mx-auto px-5 md:px-0">

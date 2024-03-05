@@ -18,7 +18,7 @@ const Index = () => {
 
   return (
     <div>
-      <div className="bg-[#029f58] relative ">
+      <div className="bg-[#029f58] relative  ">
         <div className="relative">
           <Container>
             <nav className="flex justify-between items-center pt-5 text-white px-2 md:px-0">
